@@ -1,0 +1,2248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-07-12 17:53+0200\n"
+"PO-Revision-Date: 2009-07-12 17:53+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:9
+msgid "An Ordinary Adventure"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:10
+msgid "AOA"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:15
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:15
+msgid "Noobish"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:16
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:16
+msgid "Cool"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:17
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:17
+msgid "Hellish"
+msgstr ""
+
+#. [campaign]: id=An_Ordinary_Adventure
+#: An_Ordinary_Adventure/_main.cfg:21
+msgid ""
+"Year 1002-1005, but no-one cares actually, it's just cool to put senseless "
+"dates. An impavid Human tries to have the sympathy of the surrounding "
+"countries, only to discover that they're vowing to conquer his territories. "
+"Will you give him a hand? C'mon, just the time to enjoy his death... "
+"(Noobish level...NOT, ?? scenarios.)\n"
+"\n"
+"(Version 0.1)"
+msgstr ""
+
+#. [scenario]: id=Just_Another_Day
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:3
+msgid "Just Another Day"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Sannoth
+#. [side]: type=Lieutenant, id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:54
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:57
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:49
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:53
+msgid "Noobs of the Empire"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:59
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:62
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:54
+msgid "Sannoth"
+msgstr ""
+
+#. [unit]: type=Red Mage, id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:61
+msgid "Muir"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:84
+msgid "Ye Master"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:87
+msgid "Major Arnott Grandia Maselton"
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:96
+msgid ""
+"It was an ordinary day back in the times when Knights and more other Knights "
+"were harassing each other to conquer a piece of ground. Aaaah, yes... "
+"charming fresh blood."
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:99
+msgid ""
+"We are in the Kingdom of Aldonea, home of mere Humans and home of our hero"
+"(?), which must proove himself to be worthy of his race. Well, actually YOU "
+"must proove to be a worthy player, but that ain't part of the storyline, "
+"sorry, pal."
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:102
+msgid ""
+"It's summer. Sun shines, wind chills, flowers bloom, and the noob - errr, "
+"hero is about to miss his chance to make his dreams come true. Wake up, you "
+"idiot! It's 9:00 AM, dammit!!"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:110
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:115
+msgid "Kill the enemy commander"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:114
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:282
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:635
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:119
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:128
+msgid "Death of Sannoth"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:118
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:286
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:639
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:123
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:132
+msgid "Death of Muir"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:126
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:294
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:647
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:127
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:136
+msgid "You run out of time"
+msgstr ""
+
+#. [label]
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:137
+msgid "Thorian Camp"
+msgstr ""
+
+#. [label]
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:141
+msgid "Edelron Camp"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:147
+msgid "1002, Summer. Training camp of Aldonea."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:152
+msgid "Finally, you've come... I was starting to fire you up from the Army!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:156
+msgid "Err... sorry Sir, I was just..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:160
+msgid ""
+"...Fooling around as always. That's the last time you arrive late at the "
+"daily training section, is that clear!?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:164
+msgid "A-Ay, Sir..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:168
+msgid "So... (crap, I forgot what to say...)"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:172
+msgid "Yeah. So?"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:176
+msgid "... ... (Dammit, I didn't red the speech this morning... f**k)"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:180
+msgid " *sweating* ... (ugh...)"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:184
+msgid "Uuhmm..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:188
+msgid "A-Are you allright, my Lord?"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:192
+msgid ""
+"...err - what?? Oh, hell if I'm ok!! I was just... uhm... concentrating! "
+"Yeah!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:196
+msgid "Sure..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:200
+msgid "Ok! So... Are you ready for this morning training?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:204
+msgid "(All this time to say this bull***t??!) Yeeeeeeah..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:208
+msgid " *blabberin* Show more enthusiasm, dumb**s..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:212
+msgid " *blabberin* Aw, c'mon... Can't you see he's a fa..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:216
+msgid "I said, ARE YOU READY FOR THIS FREAKING TRAINING???"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:220
+msgid " AAGH!!! Sure thing!"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:224
+msgid ""
+"Very good, indeed! A'ight, the goal is pretty simple: you must defeat my "
+"men..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:228
+msgid "Sounds easy"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:232
+msgid "...and then defeat me."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:236
+msgid " *jaws-drop* WHAAAAT?!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:240
+msgid "Oh, great..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:244
+msgid ""
+"That's right! I just can't wait to see that idiotic smile disappear from "
+"your stupid face, and then make a necklace with your teeth! MWHAHAHAHAHAH!!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:248
+msgid "A.... A.... *glomp*"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:252
+msgid ""
+"Listen you noob, you remember the basics don't you?? Listen to my advices "
+"and you won't get lost... (easily), OK?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:256
+msgid "...Well, ok... Crap..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:260
+msgid "Stop crying or I'll bitch-slap you!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:264
+msgid "Ok, ok... sheesh. What's wrong with you guys...? Chill off..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:268
+msgid ""
+"Then how would you feel when you know you're siding with a freaking "
+"overconfident noob that doesn't even know if he's alive or NOT!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:272
+msgid "O__O ..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:276
+msgid "Have you done now...?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:280
+msgid "Yes, my Lord. Forgive me."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:284
+msgid "Nice! So let's get started!! Let the clash BEGIN!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:288
+msgid "Oh boy..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:292
+msgid "Focus, imbecile..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:296
+msgid "AH, HEY! Sir!"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:300
+msgid "WHAT?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:304
+msgid "What's the prize if I win?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:308
+msgid "(A kick in the a**...)"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:312
+msgid "An ordinary batallion and a room where to live."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:316
+msgid "Cool!! Then what are we waiting for? LET'S GO!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:320
+msgid "Great Delfador, assist me... 'cos you'll do it, right...? RIGHT???"
+msgstr ""
+
+#. [message]: speaker=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:328
+msgid ""
+"Use the woods to your advantage and try to take the most of the villages "
+"here."
+msgstr ""
+
+#. [message]: speaker=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:332
+msgid "I will."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:344
+msgid "Cool! We killed one!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:348
+msgid ""
+"Yeah, now do the same with the rest of the enemy army... Did you get that or "
+"do I have to write you a note??"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:352
+msgid "Meany..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:364
+msgid "Haha!! DIE!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:368
+msgid "Dammit... We lose one."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:372
+msgid "Concentrate on the defenses."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:376
+msgid "Aye."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:391
+msgid "Let's see what you've got!"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:403
+msgid "Ugh...! Nice! You're not a hopeless noob after all..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:407
+msgid ""
+"Very well... you can rest now in your room. Enjoy this free time, because "
+"maybe it'll be your last."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:411
+msgid "Huh?! Why's that?"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:415
+msgid ""
+"You will join Captain Herald tomorrow morning, north-east of here, in the "
+"Galen Woods. Your allies (which are also ours) are Elves, so watch your "
+"language."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:419
+msgid "Oh, I see... And what should I do there?"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:423
+msgid ""
+"Assist him in the battle against the Orcs! Oh, I almost forgot... Muir will "
+"join your Army too."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:427
+msgid "Wha - No, please, there are plenty of mages available for the aid..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:431
+msgid "You WILL assist him..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:435
+msgid "Great... Thanks fagg- I mean, Sannoth."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:439
+msgid "Hey! I'm a commander right now, so pay respect to me!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:443
+msgid ""
+"The only thing you'll gain from me are thousands of magic fireballs straight "
+"to your family jewels, you hear??"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:447
+msgid "Ick!! O-Ok, I was... kiddin'! Yes!"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:451
+msgid ""
+"Ok, I'm off... I'm a little pushed... gonna get a rest. See you, and... "
+"watch your backs."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:455
+msgid "Yessir! Have a nice rest!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:459
+msgid "'See you', my a**... crap."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:470
+msgid ""
+"Hey, do you know what time it is?? It's 5 o'clock! I can't miss my tea...!! "
+"Well, see you folks!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:474
+msgid "H-Hey!! Where are you going...??"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:478
+msgid "Grrrrrrr.... ENOUGH!!! I'm outta here, see you and f**k off!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:482
+msgid "NO!! Wait a sec, we can... talk!! MUIR!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:486
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:204
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:630
+msgid "... ..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:490
+msgid "...shit"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:504
+msgid "AAARGH!! F**K, F**K, F**K!! It hurts!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:400
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:914
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:508
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:558
+msgid "Muir! I told you to stay behind!! You never listen to me..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:404
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:918
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:512
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:562
+msgid ""
+"Screw you, f***ing noob!!! *cough* ... It's... all... your... fault... *dies*"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:516
+msgid "...crap"
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:520
+msgid ""
+"You weren't able to protect your ally. You're fired forever from the Army."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:422
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:936
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:534
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:580
+msgid "URGH!! I... suppose... it ends here... *cough*"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:426
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:538
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:584
+msgid "Hey, noob!! Don't f***ing die, ok?? OK???"
+msgstr ""
+
+#. [message]: id=Sannoth
+#. [message]: speaker=unit
+#. [message]: id=Thereon
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:430
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:944
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:542
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:256
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:356
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:431
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:539
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:588
+msgid "..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:434
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:546
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:592
+msgid "F**k... you noobish idiot..."
+msgstr ""
+
+#. [message]: id=Major
+#: An_Ordinary_Adventure/scenarios/1_just_another_day.cfg:550
+msgid ""
+"You weren't able to protect your ally. You're forever banned from the Army."
+msgstr ""
+
+#. [scenario]: id=Reinforcements
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:3
+msgid "Reinforcements"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:77
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:216
+msgid "Orcish Bastards"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:80
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:220
+msgid "Kralex Merq"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:92
+msgid "Elvish Avalanche"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:95
+msgid "Captain Wlong Herald"
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:101
+msgid ""
+"And so our heroes went saving His Elvish Butt at the border between the "
+"Elven and Orcish territory."
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:122
+msgid "Death of Herald"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:137
+msgid "1002, still Summer. Galen Woods."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:146
+msgid "MWAHAHAHHA!!! Oh, you're so doomed, Herald!"
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:150
+msgid ""
+"Personally, you should consider again your position as a commander and as a "
+"diplomatic. If you agree to my offer, I'm sure we can do much for both of "
+"our people."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:154
+msgid "Screw diplomacy!! I want blood and violence and now you die!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:158
+msgid "Master Herald! Are you hurt? We came for reinforcements!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:162
+msgid "Hey there!! You ok, pal?"
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:166
+msgid ""
+"Oh, thank goodness you came! I don't think this hideous creature would allow "
+"any diplomatic agreement between us. Will you help me in achieving my goals, "
+"noble spirits?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:170
+msgid "I didn't get a thing of what you said, but that's cool man!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:174
+msgid ""
+"Pay respect, a***ole!!! You ain't chatting with your sis, but with a "
+"military Leader and hero!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:178
+msgid "Allright, allright..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:182
+msgid "Huh...?? And you are?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:186
+msgid "I am Sannoth from Aldonea!! Prepare to lose your head, you scum!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:190
+msgid ""
+"He seems so proud of himself that doesn't even recognize his stupidity..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:194
+msgid ""
+"Hey! You Mage next to the human! How come are you still with that idiot?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:198
+msgid "Bah... just leave me alone..."
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:202
+msgid ""
+"Let's go, Lord Sannoth! A triumph awaits us from atop a glorious heavenly "
+"mountain!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:206
+msgid "(What did he smoked this morning?)"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:210
+msgid "Rrah, boy..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:222
+msgid "Yay!"
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:226
+msgid "Nice display of skills!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:230
+msgid "Thanks pal!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:234
+msgid "Just focus, dammit!!"
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:246
+msgid "Another one has fallen to my blade!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:250
+msgid "Keep it up!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:254
+msgid "It will not get so easy from now on..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:266
+msgid "You know you're a hopeless noob right?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:270
+msgid "He REALLY doesn't know that..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:274
+msgid "Hey, you seem a nice guy, why don't you come with me?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:278
+msgid "Nah... at least I've got the fun here!"
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:290
+msgid "Take this!!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:294
+msgid "GAAAH!!! ..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:298
+msgid "Damn you!! ...It ain't over yet! I SWEAR IT!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:302
+msgid "Pity... it was good 'til it lasted. See ya in hell!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:306
+msgid "Whose side are you in Muir??"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:310
+msgid "In the truth side..."
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:314
+msgid ""
+"Excellent job you two! Honestly, I wasn't expecting anything particulary "
+"good from someone like yourself Lord Sannoth, but you've prooven to be a "
+"worthy commander indeed!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:318
+msgid "No probs!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:322
+msgid "Where will you leave for, Master?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:326
+msgid "Huh? Why are you asking me this??"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:330
+msgid "I DIDN'T ASK'D THAT TO YOU, F**TARD!!!"
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:334
+msgid ""
+"Well, I suppose that my authorities will put me again into the battlefield "
+"very soon. Orcs are very active on this period... maybe far too much."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:338
+msgid ""
+"If you need any help, we'll ask for permission to support you once again."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:342
+msgid "WHAT??? What about me??!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:346
+msgid ""
+"Did anyone asked you something, imbecile??! Forgive him Master Herald, 'cos "
+"he doesn't know what he's saying..."
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:350
+msgid ""
+"It is all right. I think we will meet again in due times, hopefully. Goodbye "
+"Sir Muir and Lord Sannoth! *HAAH!* "
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:354
+msgid "Was that a 'yes' or a 'no'...?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:358
+msgid "You know what I'm reaaally sure of?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:362
+msgid "What?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:366
+msgid "See this hand?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:370
+msgid "Yeah, so?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:374
+msgid " *POW!!!* "
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:378
+msgid "AAAW!!! F**k!! Whadda hell man?!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:382
+msgid "Aaaah... feeling better now."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:396
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:910
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:554
+msgid "AAARGH!! F**K, that hurts like hell!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:408
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:922
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:566
+msgid "...crap ... who's gonna clear my room now..."
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:448
+msgid "AAARGH!!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:452
+msgid "MASTER HERALD!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:456
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:974
+msgid "Darn it..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:460
+msgid "MWhahahahah!!! You're mine now!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/2_reinforcements.cfg:464
+msgid "We failed... I suggest to retreat."
+msgstr ""
+
+#. [scenario]: id=Rumbling_Winter
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:3
+msgid "Rumbling Winter"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:58
+msgid "Lord Sannoth"
+msgstr ""
+
+#. [unit]: id=Larsenn, type=Halberdier
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:63
+msgid "Sir Larsenn O'Lancet"
+msgstr ""
+
+#. [side]: type=Bandit, id=Hilbert
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:88
+msgid "Vengeaful Bandits"
+msgstr ""
+
+#. [side]: type=Bandit, id=Hilbert
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:91
+msgid "Hilbert Threach'rouse"
+msgstr ""
+
+#. [side]: type=Longbowman, id=Thereon
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:103
+msgid "Vengeaful Souls"
+msgstr ""
+
+#. [side]: type=Longbowman, id=Thereon
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:106
+msgid "Lord Thereon Pasthor"
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:112
+msgid ""
+"Some months have passed since the last fight. We're still in Galen Woods, "
+"but right now the scenario is entirely covered by pure snow."
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:115
+msgid ""
+"Sannoth is sent to suppress an uprising led by some bandits who seek revenge "
+"over the Army. To support them, an Elite halberdier has joined the heroes "
+"because of "
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:124
+msgid "Kill the enemy commanders"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:147
+msgid "1002, Winter. Galen Woods, North Camp."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:156
+msgid "Lots of fog here..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:160
+msgid "A nice excuse to be more careful."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:164
+msgid "Yeah."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:168
+msgid "Lord Larsenn, are you sure our enemies lie right after the bridge?"
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:172
+msgid "Indeed. Besides..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:176
+msgid "Hm?"
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:180
+msgid "Nothing... never mind that."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:184
+msgid "Not our business I guess."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:188
+msgid ""
+"Yep... ok, enuff chit-chat. We must hurry up and finish them quickly or the "
+"storm will come or else..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:192
+msgid "...we're screwed."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:196
+msgid "Yeah, that's it! How did you get that?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:200
+msgid "Ain't difficult, you know..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:208
+msgid "Ok, let's go. I'm kind of hungry..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:212
+msgid "You're not going to eat all of our rations, do ya?!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:216
+msgid "Weeell... ..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:220
+msgid "I'll kill you if you ever THINK to do it!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:224
+msgid "Haha! C'mon just kiddin'... Allright, let's begin. Lars, any plans?"
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:228
+msgid ""
+"Larsenn, please... I will just try to accomplish my goals, and you may do "
+"the same thing as well."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:232
+msgid "We will move quietly and slowly... snow isn't friendly with us."
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:244
+msgid "You! Why are siding with them?! Have you forgot your swearing?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:248
+msgid "A-Ain't... your... b-business... cough..."
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:252
+msgid "ANSWER ME!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:260
+msgid "He's dead already."
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:264
+msgid "Tsk..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:268
+msgid "I don't why, but I got a bad feeling about this..."
+msgstr ""
+
+#. [message]: role=Killer
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:284
+msgid "Filthy dogs!! Get outta here!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:288
+msgid "F**k off man!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:292
+msgid "For the first time in my life, I agree with you."
+msgstr ""
+
+#. [message]: role=Killer
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:308
+msgid "Disappear from our sight!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:312
+msgid ""
+"You know, we got a laaaarge d**do ready for the use... Are you interested?"
+msgstr ""
+
+#. [message]: role=Killer
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:316
+msgid "What...?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:320
+msgid "It seems to agree to our offer..."
+msgstr ""
+
+#. [message]: role=Killer
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:324
+msgid "No, wait!! WAAAIT!!!"
+msgstr ""
+
+#. [message]: id=Thereon
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:336
+msgid "Larsenn...?! Why? ...ugh"
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:340
+msgid "Traitor... You betrayed me and thus the Empire. You must perish."
+msgstr ""
+
+#. [message]: id=Thereon
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:344
+msgid ""
+"At least... I fought for something I really b-believed in... B-But you...? "
+"Whom are you f-fighting...?? hanf... hanf..."
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:348
+msgid "... *slash* "
+msgstr ""
+
+#. [message]: id=Thereon
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:352
+msgid "U-Ugh ..."
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:360
+msgid "Forgive me."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:364
+msgid "So sad..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:368
+msgid ""
+"Do not interfere... Yet I still got this feeling that something isn't going "
+"well..."
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:372
+msgid "My job is done here. Good luck."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:376
+msgid "What? You're leaving already...? We'll have a party after we win!"
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:380
+msgid "Sorry, I can't... but I admire your optimism. Goodbye."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:384
+msgid "Goodbye, Sir Larsenn."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:388
+msgid "Too bad! See ya!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:395
+msgid "Ok, moving on..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:399
+msgid "With a leader gone, it should be easier now."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:411
+msgid "There...!!"
+msgstr ""
+
+#. [message]: id=Hilbert
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:415
+msgid "ARGH!!! ..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:419
+msgid ""
+"Why did you killed him so soon?? We could have obtained some useful info!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:423
+msgid "You should have said it earlier..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:427
+msgid ""
+"WHAT?? Do I really need to tell you EVERYTHING for the sake of our mission "
+"success?! Can't you reason out for yourself?!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:435
+msgid "hanf... hanf...!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:439
+msgid "...well ...yeah!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:443
+msgid "!! !! You're dead, DEAD, DEAD, F***ING DEAD!!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:447
+msgid "WhoawhoWHOA!!! I'm outta here!!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:451
+msgid "Please don't try this at home, thank you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:456
+msgid "DISCLAIMER - During the process, no Sannoth nor animals were harmed."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:467
+msgid "The storm is heavier now..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:471
+msgid "We must hurry, we don't have much time!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:475
+msgid "Hey... Do you see those shadows on the background, too...??"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:479
+msgid "What??! What shadows??"
+msgstr ""
+
+#. [unit]: id=Assassin, type=Assassin
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:483
+msgid "Hwing O'Dyspajr"
+msgstr ""
+
+#. [unit]: id=Ranger, type=Ranger
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:492
+msgid "Bhow Hark"
+msgstr ""
+
+#. [unit]: id=Trapper, type=Trapper
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:501
+msgid "Phatall Harrow"
+msgstr ""
+
+#. [unit]: id=Rogue, type=Rogue
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:510
+msgid "Swypht Haenz"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:519
+msgid "What the hell is goin' on?!? Who are you?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:523
+msgid "That's an ambush you idiot!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:527
+msgid "So they ain't good guys?"
+msgstr ""
+
+#. [message]: id=Assassin
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:531
+msgid "Die!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:535
+msgid "Ok, I get it."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:543
+msgid "Well... Bring it on!!"
+msgstr ""
+
+#. [message]: id=Larsenn
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:606
+msgid "AAAH!! ...Darn it... Y-You won't... have it... won... *dies* "
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:610
+msgid "Sir Larsenn!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:614
+msgid "Hey, don't die me yet! Now that was going to be fun..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:618
+msgid ""
+"Silence... Silence! SILENCE!!! SHUT THE F**K UP!! QUIT IT NOW!!! DON'T SAY "
+"ANYTHING!! He died because of your carelessness, DID YOU GET THAT??!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:622
+msgid "Whoa... ok... I'll be -"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/3_rumbling_winter.cfg:626
+msgid "SHUT - UP!!! S H U T  U P"
+msgstr ""
+
+#. [scenario]: id=Going_Undead
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:3
+msgid "Going Undead"
+msgstr ""
+
+#. [unit]: id=Elgrean, type=Elvish Captain
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:67
+msgid "Elgrean Fyl'woyng"
+msgstr ""
+
+#. [unit]: id=Goldaern, type=Elvish Ranger
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:79
+msgid "Goldaern"
+msgstr ""
+
+#. [unit]: id=Irnyth, type=Elvish Ranger
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:110
+msgid "Irnyth"
+msgstr ""
+
+#. [unit]: id=Polhawk, type=Elvish Ranger
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:141
+msgid "Polhawk"
+msgstr ""
+
+#. [unit]: id=Sheryood, type=Elvish Ranger
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:172
+msgid "Sheryood"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:240
+msgid "Living Nightmares"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:244
+msgid "Kyrion"
+msgstr ""
+
+#. [side]: type=Merman Hoplite, id=Hydros
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:253
+msgid "Scared Mermen"
+msgstr ""
+
+#. [side]: type=Merman Hoplite, id=Hydros
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:257
+msgid "Hydros"
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:263
+msgid ""
+"The battles fought so far leaved a gloom of doubt within Muir's heart, which "
+"is constantly asking the reason of why they killed those rebels. Doubts that "
+"Sannoth, obviously, never even thought to investigate furthermore."
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:266
+msgid ""
+"This time, Sannoth and Co. are sent into the battlefield once again, to "
+"fight and suppress an Orcish-Undead raid. This kind of ally doesn't surprise "
+"anyone anymore, as long as they keep staying on the 'Dark Side'. And yes, "
+"I'm your father, Luke. (breath) "
+msgstr ""
+
+#. [part]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:269
+msgid ""
+"In response to the previous enemy raids that had been successfully "
+"extinguished among elvish trees and flora, Elgrean - an autonomous Elf rebel "
+"- seeks to destroy them too as well, and quickly."
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:278
+msgid "Survive until ally reinforcements come"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:290
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:643
+msgid "Death of Elgrean"
+msgstr ""
+
+#. [label]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:304
+msgid "Torlan's Fort"
+msgstr ""
+
+#. [label]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:308
+msgid "Ghoul's Fort"
+msgstr ""
+
+#. [label]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:312
+msgid "Link's Fort"
+msgstr ""
+
+#. [label]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:316
+msgid "Konrad's Fort"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:322
+msgid "1003, Spring. Althean Valley."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:331
+msgid "It's time to end this... Rangers, what's your status?"
+msgstr ""
+
+#. [message]: id=Goldaern
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:335
+msgid "Clear"
+msgstr ""
+
+#. [message]: id=Polhawk
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:339
+msgid "No enemies on sight"
+msgstr ""
+
+#. [message]: id=Irnyth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:343
+msgid "Path clear"
+msgstr ""
+
+#. [message]: id=Sheryood
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:347
+msgid "Everything all right"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:351
+msgid "Good."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:355
+msgid "Hey! Mind if we help?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:359
+msgid "Hm? Are you the human reinforcements?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:363
+msgid "Indeed we are."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:367
+msgid "Allright, then. Did your authorities explain our goals?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:371
+msgid "Uhmmm... Muir?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:375
+msgid "I'm afraid not, forgive us."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:379
+msgid "So, what's the big idea?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:383
+msgid ""
+"Ok, plans are pretty simple: we must hold out until reinforcements come to "
+"support us from the woods behind. Rangers will give us a temporary cover "
+"fire, but they won't last any longer than could possibly do. One more "
+"thing..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:387
+msgid "That would be...?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:391
+msgid ""
+"We're in enemy territory. We dunno jack about the things that'll come out "
+"from nowhere. Just keep a better eye on yourselves, is that clear?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:395
+msgid "Gotcha!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:399
+msgid "Sir Elgrean, are you acting by your own will?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:403
+msgid ""
+"Yes. I'm kind of a rebel, I'm not supported by any of the Imperial Elves."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:407
+msgid "But why did you asked our aid, if we are their allies?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:411
+msgid ""
+"I didn't ask anything to no-one. You're on my side? Then, cool, as long as "
+"we help each other I hardly care about 'Royal' affairs, you get that?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:415
+msgid "Then..."
+msgstr ""
+
+#. [message]: id=Irnyth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:419
+msgid "Enemy sighted!! Waiting for your signal!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:423
+msgid "C'mon, it's time to attack!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:427
+msgid "Take cover! Lord Sannoth, try not to overpass our bases."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:431
+msgid "Roger that"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:435
+msgid ""
+"Thanks to your prowess displayed in the previous scenario, you can now "
+"recruit Thugs and Poachers!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:450
+msgid "Be careful out there"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:464
+msgid "What are Merfolks doing here?!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:468
+msgid ""
+"Probably defending themselves... or maybe they're just confused or in panic."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:472
+msgid "Let's see if we can put up an alliance."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:476
+msgid "We need every possible help to chase down those monsters!"
+msgstr ""
+
+#. [message]: id=Hydros
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:490
+msgid "You! Identify yourself!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:494
+msgid "We're rebels that are fighting against the Orcish-Undead alliance."
+msgstr ""
+
+#. [message]: id=Hydros
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:498
+msgid "Who are you Humans?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:502
+msgid "We-"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:506
+msgid ""
+"Shut up!! Ahem... We are supporting the rebels, in order to keep these lands "
+"free once more."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:510
+msgid ""
+"If we don't do something, the woods and then the entire continent will be "
+"doomed, and an era of terror will begin."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:514
+msgid ""
+"If we fight together, there's also a chance to end the conflict early and "
+"quickly!"
+msgstr ""
+
+#. [message]: id=Hydros
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:518
+msgid "Hmm..."
+msgstr ""
+
+#. [message]: id=Hydros
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:522
+msgid ""
+"Allright then... You don't seem bad guys after all. We will assist you, but "
+"don't expect to give orders to us."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:526
+msgid "Thank you, that's cool!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:530
+msgid "We can't thank you enough, Sir!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:534
+msgid "Allright! Objective reached, prepare for full assault!"
+msgstr ""
+
+#. [modify_side]
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:539
+msgid "Fierce Mermen"
+msgstr ""
+
+#. [unit]: id=Raleigh, type=Ranger
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:550
+msgid "Raleigh"
+msgstr ""
+
+#. [unit]: id=Arron, type=Elvish Hero
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:562
+msgid "Arron"
+msgstr ""
+
+#. [unit]: id=Wilth, type=Elvish Druid
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:574
+msgid "Wilth"
+msgstr ""
+
+#. [unit]: id=Sonwyn, type=Elvish Scout
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:586
+msgid "Sonwyn"
+msgstr ""
+
+#. [unit]: id=Nagall, type=Elvish Scout
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:598
+msgid "Nagall"
+msgstr ""
+
+#. [message]: id=Raleigh
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:610
+msgid "Did we miss something?"
+msgstr ""
+
+#. [message]: id=Arron
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:614
+msgid "Elgrean!! Are you ok?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:618
+msgid ""
+"More than you could possibly immagine now that you're here! Everyone!! FULL "
+"ATTACK!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:622
+msgid "Oh yeah, baby!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:626
+msgid "Let's end this."
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:631
+msgid "Push back the enemy army and kill one of the leaders"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:661
+msgid "More decorative skulls on our camps!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:665
+msgid "Yeah! We rock!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:669
+msgid "There are Undead too... Hm..."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:673
+msgid "Something on your mind?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:677
+msgid "This battle is just too strange..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:681
+msgid "Huh?? Why?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:685
+msgid "I'll tell you later."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:697
+msgid "Hey! I remember you!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:701
+msgid "What??? You again!?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:705
+msgid "Do you already know him?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:709
+msgid "Yes, we fought him months ago."
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:713
+msgid "Tsk, you stupid punks! You ain't gonna win, that's for sure!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:717
+msgid "Dammit...!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:721
+msgid "Oh-hooo, yeah!! Let's rock!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:732
+msgid "AAARGH!! Damn you!!!"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:736
+msgid "Urgh! Dammit..."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:740
+msgid "You can't beat me, dude..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:744
+msgid ""
+"Answer my question now. Why are you here and why are you personally "
+"attacking US?"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:748
+msgid "...Urgh... Kyrion?"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:752
+msgid "It ain't your business, bi***es!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:756
+msgid ""
+"Yeah, my a**! You know that people of all kind and species are sacrificing "
+"their lives to save your wicked butt, you d**khead?!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:760
+msgid "Hey!! ...It wasn't our fault if we're here, you got it?? ...hanf..."
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:764
+msgid "Kralex!! Silence!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:768
+msgid "NO! Do speak."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:772
+msgid ""
+"You got... nice friends, you know Sannoth? Hehehe... Friends you should DIE "
+"for!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:776
+msgid "Whaaaat...?"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:780
+msgid "Aaargh... Geez, we're screwed..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:784
+msgid ""
+"I don't give a f**king damn, I got tired of our chiefs!! Do this, do that, "
+"they treat us like s**t... what the f**k! We ain't beasts!!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:788
+msgid ""
+"You're tired to lose maybe... but not of your chiefs. And I hardly think "
+"you're no beast after the things you did."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:792
+msgid ""
+"I do not care if he's a beast or not! Why would our chiefs let us allow to "
+"help an Elvish rebel (and thus a hostile figure) knowing that he's fighting "
+"by himself you and your stupid failing army??"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:796
+msgid ""
+"Listen... we really dunno jack about you...! They just promised a payment "
+"for our success and that's all!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:800
+msgid "A payment? That means..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:804
+msgid "They want us dead and buried. Sannoth, what do you think we should do?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:808
+msgid ""
+"Uhhmmm... I got lost after 'geez, we're screwed'... What's going on...??"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:812
+msgid ""
+"They expected your death in return of some money for us two, and thus the "
+"victory of the war."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:816
+msgid "...ehm"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:820
+msgid ""
+"They want you f***ing dead!! You got that now!?? And plus, our idiotic "
+"allies have betrayed us!! What the f**k are we suppose to do now?!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:824
+msgid "I-I dunno..."
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:828
+msgid ""
+"I suggest you to stay away from the Army for a while... Then you should make "
+"a decision. You got all the time to think, in the meanwhile."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:832
+msgid "Hey, what about Nekrosys?"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:836
+msgid "He'll be pretty pissed, but I think..."
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:840
+msgid "Huh?"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:844
+msgid "Hey, I got an idea!"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:848
+msgid "That'd be?"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:852
+msgid ""
+"We got a little problem to extinguish as soon as we can, so why not joining "
+"us temporarily? It's better than doing nothing! And besides, it's a safe job "
+"and no one will ever know what you did!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:856
+msgid "And how are we supposed to believe you?"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:860
+msgid ""
+"We're friendly guys after all, c'mon! It ain't funny to be a**-kicked all "
+"the time by the same people over and over..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:864
+msgid "It ain't my decision, though... Sannoth! Your choise."
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:868
+msgid "Choose carefully."
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:872
+msgid ""
+"Uhm... well, actually... there's enough food for at least other three "
+"people, so why not?"
+msgstr ""
+
+#. [message]: id=Kyrion
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:876
+msgid "That's great! HA-HA!"
+msgstr ""
+
+#. [message]: id=Kralex
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:880
+msgid ""
+"Dude, you saved our lives! You're not totally retarded after all!! C'mon, "
+"we'll explain everything later! Let's go have a drink, huh?"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:884
+msgid "Sure!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:888
+msgid "Master Elgrean?"
+msgstr ""
+
+#. [message]: id=Elgrean
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:892
+msgid ""
+"I'm no master... not anymore. Anyone minds if an old-bone like me and my "
+"noble men join your party?"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:896
+msgid "It'll be a pleasure indeed."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:940
+msgid "Hey, don't make a fool outta me!! Hold on!!"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:948
+msgid "SANNOTH! ..."
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:952
+msgid "Now that our revenge is close... you screw everything up."
+msgstr ""
+
+#. [message]: id=Herald
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:966
+msgid "N-No... AAAAAAAAARGH!!!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:970
+msgid "ELGREAN!"
+msgstr ""
+
+#. [message]: id=Sannoth
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:978
+msgid "What do we do now??"
+msgstr ""
+
+#. [message]: id=Muir
+#: An_Ordinary_Adventure/scenarios/4_going_undead.cfg:982
+msgid "We retreat immediately..."
+msgstr ""
